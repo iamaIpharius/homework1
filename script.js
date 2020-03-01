@@ -55,7 +55,7 @@ do {
     } else {
             i = 0;
             console.log(i);
-    };
+    }
      
 
 }while(i < 2);
